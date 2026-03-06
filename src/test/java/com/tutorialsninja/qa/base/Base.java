@@ -127,6 +127,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import com.tutorialsninja.qa.utils.Utilities;
 
 public class Base {
+	//This is comment added to check CICD
 
     public WebDriver driver;
     public Properties prop;
